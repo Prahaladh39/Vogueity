@@ -1,0 +1,51 @@
+const Glasses = [
+  {
+    img: "https://m.media-amazon.com/images/I/51dvmuCON9L._SY695_.jpg",
+    img2: "",
+    title: "Calvin Klein Men's Grey Sunglasses",
+    price: "₹600",
+    rating: "3",
+    dimensions: "13 x 5 x 4 cm; 35 g",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/61zsIssQ0kL._SX679_.jpg",
+    img2: "",
+    title: "Polarized Sunglasses For Men",
+    price: " ₹999",
+    rating: "3.3",
+    dimensions: "14.4 x 14 x 4.3 cm; 2.5 g",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41eIph+iilL._SX679_.jpg",
+    img2: "",
+    title: "Ray-Ban Male Sunglasses",
+    price: "₹663",
+    rating: "4.5",
+    dimensions: "10 x 10 x 10 cm; 20 g",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/61VkTZSNSNL._SX679_.jpg",
+    img2: "",
+    title: "Tommy Hilfiger Solid Aviator Men's Sunglasses",
+    price: "₹689",
+    rating: "4",
+    dimensions: "13.6 x 6 x 5 cm; 35 g",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/51UPY8sEE0L._SX679_.jpg",
+    img2: "",
+    title: "Tommy Hilfiger Sunglasses",
+    price: "₹529",
+    rating: "3.2",
+    dimensions: "14 x 6 x 5 cm; 35 g",
+  },
+  {
+    img: "https://m.media-amazon.com/images/I/41Z7V69+VJL._SX679_.jpg",
+    img2: "",
+    title: "Web Silver Round Sunglass WE0260 54 14W",
+    price: "₹549",
+    rating: "4",
+    dimensions: "30 x 10 x 10 cm; 200 g",
+  },
+];
+export default Glasses;
