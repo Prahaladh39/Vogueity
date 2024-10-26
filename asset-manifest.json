@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Vogueity/static/css/main.ee353b65.css",
+    "main.js": "/Vogueity/static/js/main.8f0c37a4.js",
+    "static/js/453.f18d65e5.chunk.js": "/Vogueity/static/js/453.f18d65e5.chunk.js",
+    "static/media/m2.jpg": "/Vogueity/static/media/m2.54363116083270f59f1c.jpg",
+    "static/media/backimg1.jpg": "/Vogueity/static/media/backimg1.f7399123ae90385e83be.jpg",
+    "static/media/m1.jpg": "/Vogueity/static/media/m1.7abc6c9722ac40cb2d37.jpg",
+    "static/media/funky.webp": "/Vogueity/static/media/funky.bec8f8a4f5cdd4ad7d5a.webp",
+    "static/media/expp.jpg": "/Vogueity/static/media/expp.e6d5caf5fbca0b1fb7a1.jpg",
+    "index.html": "/Vogueity/index.html",
+    "main.ee353b65.css.map": "/Vogueity/static/css/main.ee353b65.css.map",
+    "main.8f0c37a4.js.map": "/Vogueity/static/js/main.8f0c37a4.js.map",
+    "453.f18d65e5.chunk.js.map": "/Vogueity/static/js/453.f18d65e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee353b65.css",
+    "static/js/main.8f0c37a4.js"
+  ]
+}
